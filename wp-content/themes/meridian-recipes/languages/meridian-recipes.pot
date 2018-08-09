@@ -1,0 +1,1130 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Meridian Recipes\n"
+"POT-Creation-Date: 2016-09-17 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_x:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;"
+"esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ."
+
+#: 404.php:7 template-parts/content-none.php:3
+msgid "Sorry, Nothing Found!"
+msgstr ""
+
+#: 404.php:8
+msgid ""
+"The page you were looking for could not be found. Maybe try the search form "
+"below."
+msgstr ""
+
+#: archive.php:39
+msgid "Currently Browsing:"
+msgstr ""
+
+#: comments.php:20 comments.php:41
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:21 comments.php:42
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:56
+msgid "Comment"
+msgstr ""
+
+#: comments.php:58
+msgid "Name"
+msgstr ""
+
+#: comments.php:59
+msgid "Email"
+msgstr ""
+
+#: comments.php:60
+msgid "Website"
+msgstr ""
+
+#: functions.php:41
+msgid "Primary"
+msgstr ""
+
+#: functions.php:42
+msgid "Footer"
+msgstr ""
+
+#: functions.php:43
+msgid "Side Panel"
+msgstr ""
+
+#: functions.php:77
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:87
+msgid "User Profile"
+msgstr ""
+
+#: functions.php:97
+msgid "Module 4 - Sidebar"
+msgstr ""
+
+#: functions.php:107
+msgid "Module 6 - Sidebar"
+msgstr ""
+
+#: functions.php:117
+msgid "Module 8 - Sidebar"
+msgstr ""
+
+#: functions.php:127
+msgid "Module 9 - Sidebar"
+msgstr ""
+
+#: functions.php:137
+msgid "Module 11 - Sidebar"
+msgstr ""
+
+#: functions.php:147
+msgid "Module 12 - Sidebar"
+msgstr ""
+
+#: functions.php:157
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions.php:167
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions.php:177
+msgid "Footer Column 3"
+msgstr ""
+
+#: functions.php:236
+msgctxt "Google fonts: on or off"
+msgid "on"
+msgstr ""
+
+#: search.php:21
+msgid "Search Results For:"
+msgstr ""
+
+#. Name of the template
+msgid "Homepage"
+msgstr ""
+
+#. Name of the template
+msgid "Page with sidebar"
+msgstr ""
+
+#: template-user-profile.php:48
+msgid "Bookmarked Recipes"
+msgstr ""
+
+#: template-user-profile.php:133
+msgid "View All Bookmarked Recipes"
+msgstr ""
+
+#: template-user-profile.php:138
+msgid "You have not bookmarked any recipes yet."
+msgstr ""
+
+#: template-user-profile.php:154
+msgid "Bookmarked Blog Posts"
+msgstr ""
+
+#: template-user-profile.php:240
+msgid "View All Bookmarked Blog Posts"
+msgstr ""
+
+#: template-user-profile.php:245
+msgid "You have not bookmarked any blog posts yet."
+msgstr ""
+
+#: template-user-profile.php:261
+msgid "Rated Recipes"
+msgstr ""
+
+#: template-user-profile.php:347
+msgid "View All Rated Recipes"
+msgstr ""
+
+#: template-user-profile.php:352
+msgid "You have not rated any recipes yet."
+msgstr ""
+
+#: inc/ajax.php:270
+msgid "Share on facebook"
+msgstr ""
+
+#: inc/ajax.php:271
+msgid "Share on pinterest"
+msgstr ""
+
+#: inc/display-functions.php:68
+msgid "Newer"
+msgstr ""
+
+#: inc/display-functions.php:69
+msgid "Older"
+msgstr ""
+
+#: inc/display-functions.php:79 inc/display-functions.php:81
+msgid "LOAD MORE ITEMS"
+msgstr ""
+
+#: inc/display-functions.php:234
+msgid "by"
+msgstr ""
+
+#: inc/display-functions.php:253
+msgid "No comments"
+msgstr ""
+
+#: inc/display-functions.php:253
+msgid "One comment"
+msgstr ""
+
+#: inc/display-functions.php:253
+msgid "% comments"
+msgstr ""
+
+#: inc/display-functions.php:304
+msgid "Pingback:"
+msgstr ""
+
+#: inc/display-functions.php:304
+msgid "(Edit)"
+msgstr ""
+
+#: inc/display-functions.php:335
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/display-functions.php:374
+msgid "- Select Page -"
+msgstr ""
+
+#: inc/display-functions.php:454
+msgid "No Ratings Yet"
+msgstr ""
+
+#: inc/functions.featured.php:122 template-parts/header/featured-2.php:80 
+#: template-parts/listing/post-s4.php:38
+msgid "Continue Reading"
+msgstr ""
+
+#: inc/functions.featured.php:163 inc/functions.featured.php:213
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr ""
+
+#: inc/post-options.php:40
+msgid "Featured Section ( Header Variations )"
+msgstr ""
+
+#: inc/post-options.php:52
+msgid "Style"
+msgstr ""
+
+#: inc/post-options.php:53
+msgid "Which style should the featured section have?."
+msgstr ""
+
+#: inc/post-options.php:57 inc/post-options.php:178 inc/post-options.php:191 
+#: inc/widgets/widget.posts.php:311
+msgid "Disabled"
+msgstr ""
+
+#: inc/post-options.php:58
+msgid "Style One"
+msgstr ""
+
+#: inc/post-options.php:59
+msgid "Style Two"
+msgstr ""
+
+#: inc/post-options.php:60
+msgid "Style Three"
+msgstr ""
+
+#: inc/post-options.php:61
+msgid "Style Four"
+msgstr ""
+
+#: inc/post-options.php:62
+msgid "Style Five"
+msgstr ""
+
+#: inc/post-options.php:67
+msgid "Post Types"
+msgstr ""
+
+#: inc/post-options.php:68
+msgid "Which post types should be included in the featured section?"
+msgstr ""
+
+#: inc/post-options.php:73 inc/post-options.php:203 
+#: inc/widgets/widget.posts.php:273
+msgid "Blog Posts"
+msgstr ""
+
+#: inc/post-options.php:74 inc/post-options.php:204 
+#: inc/widgets/widget.posts.php:274
+msgid "Recipes"
+msgstr ""
+
+#: inc/post-options.php:75
+msgid "Mixed ( blog + recipes )"
+msgstr ""
+
+#: inc/post-options.php:80
+msgid "Tag"
+msgstr ""
+
+#: inc/post-options.php:81
+msgid "Which tag should be used to get the posts for the featured section."
+msgstr ""
+
+#: inc/post-options.php:93
+msgid "Content Sections"
+msgstr ""
+
+#: inc/post-options.php:112
+msgid "Section {#}"
+msgstr ""
+
+#: inc/post-options.php:113
+msgid "Add Section"
+msgstr ""
+
+#: inc/post-options.php:114
+msgid "Remove Section"
+msgstr ""
+
+#: inc/post-options.php:128
+msgid "- Select -"
+msgstr ""
+
+#: inc/post-options.php:129
+msgid "Module One"
+msgstr ""
+
+#: inc/post-options.php:130
+msgid "Module Two"
+msgstr ""
+
+#: inc/post-options.php:131
+msgid "Module Three"
+msgstr ""
+
+#: inc/post-options.php:132
+msgid "Module Four"
+msgstr ""
+
+#: inc/post-options.php:133
+msgid "Module Five"
+msgstr ""
+
+#: inc/post-options.php:134
+msgid "Module Six"
+msgstr ""
+
+#: inc/post-options.php:135
+msgid "Module Seven"
+msgstr ""
+
+#: inc/post-options.php:136
+msgid "Module Eight"
+msgstr ""
+
+#: inc/post-options.php:137
+msgid "Module Nine"
+msgstr ""
+
+#: inc/post-options.php:138
+msgid "Module Ten"
+msgstr ""
+
+#: inc/post-options.php:139
+msgid "Module Eleven"
+msgstr ""
+
+#: inc/post-options.php:140
+msgid "Module Twelve"
+msgstr ""
+
+#: inc/post-options.php:141
+msgid "Module Thirteen"
+msgstr ""
+
+#: inc/post-options.php:142
+msgid "Module Fourteen"
+msgstr ""
+
+#: inc/post-options.php:143
+msgid "Module Fifteen"
+msgstr ""
+
+#: inc/post-options.php:144
+msgid "Module Sixteen"
+msgstr ""
+
+#: inc/post-options.php:145
+msgid "Promo Boxes"
+msgstr ""
+
+#: inc/post-options.php:146
+msgid "Subscribe"
+msgstr ""
+
+#: inc/post-options.php:147 inc/widgets/widget.search.php:55 
+#: template-parts/home/module-search.php:34
+msgid "Search"
+msgstr ""
+
+#: inc/post-options.php:177 inc/post-options.php:190 
+#: inc/widgets/widget.posts.php:312
+msgid "Enabled"
+msgstr ""
+
+#: inc/post-options.php:205
+msgid "Mixed ( recipes + blog posts )"
+msgstr ""
+
+#: inc/post-options.php:225
+msgid "Publish Date"
+msgstr ""
+
+#: inc/post-options.php:226
+msgid "Modified Date"
+msgstr ""
+
+#: inc/post-options.php:227
+msgid "Title"
+msgstr ""
+
+#: inc/post-options.php:228
+msgid "Comment Count"
+msgstr ""
+
+#: inc/post-options.php:229
+msgid "Random"
+msgstr ""
+
+#: inc/post-options.php:241
+msgid "Descending"
+msgstr ""
+
+#: inc/post-options.php:242
+msgid "Ascending"
+msgstr ""
+
+#: inc/post-options.php:365 inc/post-options.php:408
+msgid "Full Width"
+msgstr ""
+
+#: inc/post-options.php:366 inc/post-options.php:409
+msgid "Wrapped"
+msgstr ""
+
+#: inc/post-options.php:433
+msgid "General Options"
+msgstr ""
+
+#: inc/post-options.php:438 inc/theme-options.php:19
+msgid "Logo"
+msgstr ""
+
+#: inc/post-options.php:439 inc/post-options.php:446
+msgid ""
+"If you want to show a different logo on this page you can set it here. If "
+"not supplied the regular logo from the Customizer options will be used."
+msgstr ""
+
+#: inc/post-options.php:445 inc/theme-options.php:26
+msgid "Logo - Retina"
+msgstr ""
+
+#: inc/post-options.php:457
+msgid "Recipe Options"
+msgstr ""
+
+#: inc/post-options.php:501
+msgid "Ingredient {#}"
+msgstr ""
+
+#: inc/post-options.php:502
+msgid "Add Ingredient"
+msgstr ""
+
+#: inc/post-options.php:503
+msgid "Remove Ingredient"
+msgstr ""
+
+#: inc/post-options.php:533
+msgid "Instruction {#}"
+msgstr ""
+
+#: inc/post-options.php:534
+msgid "Add Instruction"
+msgstr ""
+
+#: inc/post-options.php:535
+msgid "Remove Instruction"
+msgstr ""
+
+#: inc/theme-options.php:14
+msgid "- General"
+msgstr ""
+
+#: inc/theme-options.php:33
+msgid "Logo - Admin ( login/register page )"
+msgstr ""
+
+#: inc/theme-options.php:42
+msgid "- Social"
+msgstr ""
+
+#: inc/theme-options.php:47
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/theme-options.php:54
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/theme-options.php:61
+msgid "Youtube URL"
+msgstr ""
+
+#: inc/theme-options.php:68
+msgid "Vimeo URL"
+msgstr ""
+
+#: inc/theme-options.php:75
+msgid "Tumblr URL"
+msgstr ""
+
+#: inc/theme-options.php:82
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/theme-options.php:89
+msgid "LinkedIn URL"
+msgstr ""
+
+#: inc/theme-options.php:96
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/theme-options.php:103
+msgid "Github URL"
+msgstr ""
+
+#: inc/theme-options.php:110
+msgid "Google Plus URL"
+msgstr ""
+
+#: inc/theme-options.php:117
+msgid "Dribbble URL"
+msgstr ""
+
+#: inc/theme-options.php:124
+msgid "Dropbox URL"
+msgstr ""
+
+#: inc/theme-options.php:131
+msgid "Flickr URL"
+msgstr ""
+
+#: inc/theme-options.php:138
+msgid "Foursquare URL"
+msgstr ""
+
+#: inc/theme-options.php:145
+msgid "Behance URL"
+msgstr ""
+
+#: inc/theme-options.php:152
+msgid "Vine URL"
+msgstr ""
+
+#: inc/theme-options.php:159
+msgid "RSS URL"
+msgstr ""
+
+#: inc/theme-options.php:168
+msgid "- Header"
+msgstr ""
+
+#: inc/theme-options.php:177
+msgid "Header Search"
+msgstr ""
+
+#: inc/theme-options.php:188
+msgid "Header Social"
+msgstr ""
+
+#: inc/theme-options.php:199
+msgid "Header Account Links"
+msgstr ""
+
+#: inc/theme-options.php:208
+msgid "- Footer"
+msgstr ""
+
+#: inc/theme-options.php:217
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/theme-options.php:228
+msgid "Footer Bottom"
+msgstr ""
+
+#: inc/theme-options.php:235
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/theme-options.php:244
+msgid "- Slugs"
+msgstr ""
+
+#: inc/theme-options.php:245
+msgid ""
+"IMPORTANT: After making changes to the slugs go to WP admin > Settings > "
+"Permalinks and click \"Save Changes\", that will regenerate the permalinks "
+"structure."
+msgstr ""
+
+#: inc/theme-options.php:250
+msgid "Slug - Recipe Posts"
+msgstr ""
+
+#: inc/theme-options.php:257
+msgid "Slug - Recipe Category"
+msgstr ""
+
+#: inc/theme-options.php:264
+msgid "Slug - Recipe Tag"
+msgstr ""
+
+#: inc/theme-options.php:273
+msgid "- Other"
+msgstr ""
+
+#: inc/theme-options.php:282
+msgid "Recipe Ingredients/Instructions Layout"
+msgstr ""
+
+#: inc/user-options.php:7
+msgid "Social Profiles"
+msgstr ""
+
+#: inc/user-options.php:12
+msgid "Twitter"
+msgstr ""
+
+#: inc/user-options.php:15 inc/user-options.php:23 inc/user-options.php:31 
+#: inc/user-options.php:39 inc/user-options.php:47
+msgid "The URL to your profile."
+msgstr ""
+
+#: inc/user-options.php:20
+msgid "Facebook"
+msgstr ""
+
+#: inc/user-options.php:28
+msgid "Instagram"
+msgstr ""
+
+#: inc/user-options.php:36
+msgid "Behance"
+msgstr ""
+
+#: inc/user-options.php:44
+msgid "Dribbble"
+msgstr ""
+
+#: template-parts/content-none.php:4
+msgid ""
+"Nothing matched your search terms. Please try again with some different "
+"keywords."
+msgstr ""
+
+#: template-parts/content-none.php:9
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-single.php:9 template-parts/recipe-single.php:9
+msgid "share"
+msgstr ""
+
+#: template-parts/content-single.php:25 template-parts/recipe-single.php:35
+msgid "bookmarked"
+msgstr ""
+
+#: template-parts/content-single.php:30 template-parts/recipe-single.php:40 
+#: template-parts/recipe-single.php:64
+msgid "bookmark"
+msgstr ""
+
+#: template-parts/recipe-single.php:14
+msgid "cookmode"
+msgstr ""
+
+#: template-parts/recipe-single.php:19
+msgid "print"
+msgstr ""
+
+#: template-parts/recipe-single.php:51
+msgid "You must be logged in to bookmark"
+msgstr ""
+
+#: template-parts/recipe-single.php:54 template-parts/recipe-single.php:116 
+#: template-parts/header/main-right.php:70
+msgid "Log In"
+msgstr ""
+
+#: template-parts/recipe-single.php:56 template-parts/recipe-single.php:118 
+#: template-parts/header/main-right.php:72
+msgid "Sign Up"
+msgstr ""
+
+#: template-parts/recipe-single.php:73
+msgid "Thanks For Rating"
+msgstr ""
+
+#: template-parts/recipe-single.php:97
+msgid "You must be logged in to rate"
+msgstr ""
+
+#: template-parts/recipe-single.php:131
+msgid "recipe rated"
+msgstr ""
+
+#: template-parts/recipe-single.php:134
+msgid "rate recipe"
+msgstr ""
+
+#: template-parts/recipe-single.php:205
+msgid "Ingredients"
+msgstr ""
+
+#: template-parts/recipe-single.php:224
+msgid "Instructions"
+msgstr ""
+
+#: inc/tgm/tgm-init.php:30
+msgid "Meridian Recipes Features"
+msgstr ""
+
+#: inc/tgm/tgm-init.php:36
+msgid "Meridian Promo Bars"
+msgstr ""
+
+#: inc/tgm/tgm-init.php:42
+msgid "Meridian Popups"
+msgstr ""
+
+#: inc/tgm/tgm-init.php:48
+msgid "Meridian Styler"
+msgstr ""
+
+#: inc/tgm/tgm-init.php:54
+msgid "MailPoet Newsletters"
+msgstr ""
+
+#: inc/tgm/tgm-init.php:59
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/widgets/widget.author.php:15
+msgid "MeridianThemes - About Author"
+msgstr ""
+
+#: inc/widgets/widget.author.php:16
+msgid "Show info about the author."
+msgstr ""
+
+#: inc/widgets/widget.author.php:113 inc/widgets/widget.instagram.php:137 
+#: inc/widgets/widget.posts.php:263 inc/widgets/widget.search.php:124 
+#: inc/widgets/widget.social.php:191 inc/widgets/widget.subscribe.php:114
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widget.author.php:117
+msgid "Author Image URL:"
+msgstr ""
+
+#: inc/widgets/widget.author.php:121
+msgid "Heading Title:"
+msgstr ""
+
+#: inc/widgets/widget.author.php:125
+msgid "Content:"
+msgstr ""
+
+#: inc/widgets/widget.author.php:129
+msgid "Signature Image URL:"
+msgstr ""
+
+#: inc/widgets/widget.instagram.php:141 inc/widgets/widget.posts.php:267
+msgid "Amount:"
+msgstr ""
+
+#: inc/widgets/widget.instagram.php:145
+msgid "User ID:"
+msgstr ""
+
+#: inc/widgets/widget.instagram.php:149
+msgid "Access Token:"
+msgstr ""
+
+#: inc/widgets/widget.posts.php:12
+msgid "MeridianThemes - Posts List"
+msgstr ""
+
+#: inc/widgets/widget.posts.php:13
+msgid "Show recent or popular posts."
+msgstr ""
+
+#: inc/widgets/widget.posts.php:271
+msgid "Post Type:"
+msgstr ""
+
+#: inc/widgets/widget.posts.php:278
+msgid "Type:"
+msgstr ""
+
+#: inc/widgets/widget.posts.php:280
+msgid "Recent"
+msgstr ""
+
+#: inc/widgets/widget.posts.php:281
+msgid "Popular"
+msgstr ""
+
+#: inc/widgets/widget.posts.php:285
+msgid "Blog Category:"
+msgstr ""
+
+#: inc/widgets/widget.posts.php:293
+msgid "Recipe Category:"
+msgstr ""
+
+#: inc/widgets/widget.posts.php:301
+msgid "Style:"
+msgstr ""
+
+#: inc/widgets/widget.posts.php:303
+msgid "Small"
+msgstr ""
+
+#: inc/widgets/widget.posts.php:304
+msgid "Big"
+msgstr ""
+
+#: inc/widgets/widget.posts.php:305
+msgid "Carousel"
+msgstr ""
+
+#: inc/widgets/widget.posts.php:309
+msgid "Show related posts on single post pages:"
+msgstr ""
+
+#: inc/widgets/widget.search.php:15
+msgid "MeridianThemes - Search"
+msgstr ""
+
+#: inc/widgets/widget.search.php:16
+msgid "Show search form."
+msgstr ""
+
+#: inc/widgets/widget.search.php:54 template-parts/home/module-search.php:33
+msgid "Enter Keywords..."
+msgstr ""
+
+#: inc/widgets/widget.search.php:61 template-parts/home/module-search.php:39
+msgid "Popular Categories"
+msgstr ""
+
+#: inc/widgets/widget.search.php:128 inc/widgets/widget.subscribe.php:118
+msgid "BG Image URL:"
+msgstr ""
+
+#: inc/widgets/widget.search.php:132 inc/widgets/widget.subscribe.php:122
+msgid "Primary Text:"
+msgstr ""
+
+#: inc/widgets/widget.social.php:15
+msgid "MeridianThemes - Social"
+msgstr ""
+
+#: inc/widgets/widget.social.php:16
+msgid "Show social links."
+msgstr ""
+
+#: inc/widgets/widget.social.php:195
+msgid ""
+"The URLs to the social profiles are set in WP admin &rarr; Appearance &rarr; "
+"Customize &rarr; Social"
+msgstr ""
+
+#: inc/widgets/widget.subscribe.php:15
+msgid "MeridianThemes - Subscribe"
+msgstr ""
+
+#: inc/widgets/widget.subscribe.php:16
+msgid "Show subscription form."
+msgstr ""
+
+#: inc/widgets/widget.subscribe.php:126
+msgid "Secondary Text:"
+msgstr ""
+
+#: inc/widgets/widget.subscribe.php:130
+msgid "Subscribe ID ( mailpoet ):"
+msgstr ""
+
+#: template-parts/footer/posts.php:7
+msgid "Related Recipes"
+msgstr ""
+
+#: template-parts/header/main-left.php:5
+msgid "Search the site"
+msgstr ""
+
+#: template-parts/header/main-right.php:66
+msgid "My Profile"
+msgstr ""
+
+#: template-parts/header/main-right.php:68
+msgid "Log Out"
+msgstr ""
+
+#: template-parts/header/navigation.php:8
+msgid "Navigation"
+msgstr ""
+
+#: template-parts/home/module-6.php:280 template-parts/home/module-6.php:288
+msgid "VIEW ALL"
+msgstr ""
+
+#: template-parts/main/related-posts.php:21
+msgid "Related Posts"
+msgstr ""
+
+#: template-parts/other/cookmode.php:5
+msgid "Close Cookmode"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2.php:120
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2.php:332
+msgid "Click to toggle"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Ajax.php:40
+msgid "Please Try Again"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Ajax.php:135
+msgid "Remove Embed"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Ajax.php:139
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Field.php:955
+msgid "Add Group"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Field.php:956
+msgid "Remove Group"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Field.php:978 inc/CMB2/includes/CMB2_Field.php:982
+msgid "None"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:86 inc/CMB2/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:87
+msgid "Default"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:109
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, October,"
+" November, December"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:118 inc/CMB2/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:129
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson."
+"com/examples/timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:137 inc/CMB2/includes/CMB2_Types.php:1013
+msgid "Remove Image"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:138 inc/CMB2/includes/CMB2_Types.php:357 
+#: inc/CMB2/includes/CMB2_Types.php:1032
+msgid "Remove"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:139 inc/CMB2/includes/CMB2_Types.php:1027
+msgid "File:"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:140 inc/CMB2/includes/CMB2_Types.php:1030
+msgid "Download"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Types.php:298
+msgid "Add Row"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Types.php:758 inc/CMB2/includes/CMB2_Types.php:806
+msgid "No terms"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Types.php:873
+msgid "Add or Upload Files"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Types.php:935
+msgid "Add or Upload File"
+msgstr ""
+
+#: inc/CMB2/includes/helper-functions.php:250
+msgid "Save"
+msgstr ""
+
+#. Name of the theme
+msgid "Meridian Recipes"
+msgstr ""
+
+#. Description of the theme
+msgid "WordPress theme for food recipes magazine websites."
+msgstr ""
+
+#. URI of the theme
+msgid "http://meridianthemes.net"
+msgstr ""
+
+#. Author of the theme
+msgid "MeridianThemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/meridianthemes/portfolio"
+msgstr ""
