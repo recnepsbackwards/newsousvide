@@ -1,0 +1,75 @@
+@media print {
+
+	body { 
+		background:white; 
+		color:black; 
+		margin:0;
+		font-size: 14px;
+	}
+
+	/**
+	 * Remove elements
+	 */
+	 .side-panel,
+	 #header-left,
+	 #header-right,
+	 #navigation,
+	 .header-posts,
+	 #sidebar,
+	 .blog-post-single-top,
+	 .recipe-post-single-top,
+	 .related-posts,
+	 #comments,
+	 #footer,
+	 #footer-posts,
+	 .meridian-promo-bar,
+	 .cookmode,
+	 .cookmode-overlay
+	 {
+	 	display: none !important;
+	 }
+
+	 #header,
+	 #main {
+	 	padding: 0;
+	 }
+
+	 #header {
+	 	display: none;
+	 }
+
+	 #header-middle {
+	 	width: auto;
+	 }
+
+	 /**
+	  * Content
+	  */
+	 #content {
+	 	width: auto;
+	 }
+
+	 .recipe-post-single-cats {
+	 	width: 100%;
+	 	margin-bottom: 10px;
+	 }
+
+	 .recipe-post-single-rating {
+	 	display: none;
+	 }
+
+	 .recipe-post-single-thumb {
+	 	display: none;
+	 }
+
+	 .recipe-post-single-thumb-print {
+	 	display: block;
+	 	float: left;
+	 	margin-right: 30px;
+	 }
+
+	 .recipe-post-single-main {
+	 	overflow: hidden;
+	 }
+
+}
