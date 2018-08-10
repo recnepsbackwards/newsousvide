@@ -1,0 +1,33 @@
+.meridian-promo-bar {
+	z-index: 99999998;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	text-align: center;
+	background: #eee;
+	display: none;
+}
+
+.meridian-promo-bar-sticky-enabled {
+	position: fixed;
+}
+
+	.meridian-promo-bar-text {
+		display: inline-block;
+	}
+
+	.meridian-promo-bar-button {
+		display: inline-block;
+		margin-left: 30px;
+		background: #e86059;
+		color: #fff;
+		padding: 0 10px;
+	}
+
+	.meridian-promo-bar-close {
+		position: absolute;
+		right: 20px;
+		top: 8px;
+		cursor: pointer;
+	}

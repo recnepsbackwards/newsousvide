@@ -1,0 +1,138 @@
+.meridian-popup-overlay {
+	z-index: 999999995;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: rgba( 255, 255, 255, 0.62 );
+	display: none;
+}
+
+	.meridian-popup {
+		z-index: 999999995;
+		max-width: 740px;
+		margin: 0 auto;
+		background: #fff;
+		box-shadow: 0 0 59px rgba( 0, 0, 0, 0.2 );
+		position: relative;
+	}
+
+		.meridian-popup-banner {
+			overflow: hidden;
+		}
+
+		.meridian-popup-main {
+			padding: 38px 80px 50px 80px;
+		}
+
+			.meridian-popup-title {
+				text-align: center;
+				font-size: 28px;
+				color: #21201f;
+				line-height: 1.2;
+				margin-bottom: 22px;
+			}
+
+			.meridian-popup-subtitle {
+				text-align: center;
+				font-size: 17px;
+				line-height: 27px;
+				color: #716e6a;
+				margin-bottom: 34px;
+			}
+
+			.meridian-popup-content {
+				padding: 0 38px;
+			}
+
+			.meridian-popup-content-after {
+				text-align: center;
+				font-size: 15px;
+				line-height: 1;
+				color: #959595;
+				text-decoration: underline;
+				margin-top: 30px;
+			}
+
+		.meridian-popup-close {
+			position: absolute;
+			right: -16px;
+			top: -16px;
+			width: 32px;
+			line-height: 32px;
+			border-radius: 50%;
+			background: #fff;
+			font-family: "Lato";
+			font-size: 12px;
+			color: #000;
+			text-align: center;
+			cursor: pointer;
+		}
+
+/**
+ * Wysia
+ */
+ .meridian-popup-content .wysija-paragraph {
+	margin-bottom: 0;
+}
+
+.meridian-popup-content .widget_wysija_cont {
+	position: relative;
+}
+
+.meridian-popup-content .wysija-paragraph label {
+	display: none;
+}
+
+.meridian-popup-content input[type="text"].wysija-input,
+.meridian-popup-content input[type="email"].wysija-input {
+	background: #f5f5f5;
+	border: 0;
+	display: inline-block;
+	line-height: 60px;
+	color: #666666;
+	font-size: 17px;
+	font-family: "Vollkorn";
+	padding: 0;
+	width: 100%;
+	border-radius: 0;
+	padding: 0 30px;
+}
+
+.meridian-popup-content input[type="submit"].wysija-submit {
+	position: absolute;
+	top: 0;
+	right: 0;
+	border: 0;
+	display: inline-block;
+	line-height: 60px;
+	color: #fff;
+	font-size: 15px;
+	font-family: "Lato";
+	font-weight: 900;
+	background: #e86059;
+	padding: 0 25px;
+	margin: 0;
+	border-radius: 0;
+	text-transform: uppercase;
+}
+
+.meridian-popup-content .widget_wysija_cont .allmsgs .updated {
+	border: 0;
+	margin: 0;
+	padding: 0;
+	background: transparent;
+	color: inherit;
+	font-size: 15px;
+	font-family: "Source Sans Pro";
+}
+
+.meridian-popup-content .widget_wysija_cont .allmsgs {
+	border: 0;
+	margin-bottom: 10px;
+	background: #5eb9aa;
+	color: #fff;
+	padding: 10px;
+	font-family: "Source Sans Pro";
+}
